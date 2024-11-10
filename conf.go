@@ -1,4 +1,4 @@
-package security
+package rsa
 
 type Config struct {
 	PublicKey  string `yaml:"pub"` // 公钥
